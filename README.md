@@ -1,6 +1,6 @@
 # Identifier Length Limit Tester
 
-A modern, interactive React component for testing identifier lengths against various programming language and database limits.
+> A React tool to test if variable, function, or table names exceed compiler and database identifier length limits across different programming languages.
 
 ## 🚀 Features
 
